@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Welcome App
 
 A simple web application built using:
@@ -19,3 +20,6 @@ A simple web application built using:
 
 Build the project using CMake and run
 the generated StudentWelcomeApp executable.
+=======
+# StudentWelcomeApp
+>>>>>>> decd0103f9729acd065eb17e9973fee96bb0ddf5
