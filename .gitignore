@@ -1,0 +1,14 @@
+# CMake build files
+build/
+cmake-build-*/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+
+# Executable and compiled files
+*.exe
+*.obj
+*.lib
+*.pdb
